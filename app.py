@@ -8,7 +8,7 @@ app = Flask(__name__)
 def htop_page():
     try:
         # Get username and hostname
-        name = 'sample_name'
+        name = 'KSM'
         username = os.environ.get('USER', 'code-space')
 
         # Get server time
