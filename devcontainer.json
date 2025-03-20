@@ -1,0 +1,6 @@
+{
+  "name": "Flask Codespace",
+  "hostRequirements": {
+    "idleTimeout": 21600  // 6 hours (360 minutes) in seconds
+  }
+}
